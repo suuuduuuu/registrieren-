@@ -14,8 +14,8 @@
 
   <script>
     const firebaseConfig = {
-      apiKey: "DEIN_API_KEY",
-      authDomain: "DEIN_PROJEKT.firebaseapp.com"
+      apiKey: "AIzaSyAlsXFovYjR7OdUWn_gMIWBRNQ1d39EGC8",
+      authDomain: "login-30236.firebaseapp.com"
     };
     firebase.initializeApp(firebaseConfig);
 

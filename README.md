@@ -3,8 +3,8 @@
 <html>
 <head>
   <title>Registrierung</title>
-  <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-app-compat.js"/script><
-  <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-auth-compat.js"/script><
+  <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-auth-compat.js"></script>
 </head>
 <body>
   <h1>Registrieren</h1>
